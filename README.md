@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>yaorongke</title>
-</head>
 <body>
     <h1>yaorongke的个人主页</h1>
     <h1>Hello ~</h1>
